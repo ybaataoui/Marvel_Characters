@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![MarvelCharacters](https://user-images.githubusercontent.com/80371588/228089141-c3b4eff9-b1c5-4b60-83a9-c565c99fe2e7.gif)
 
 
 <img src='https://imgur.com/TbjCcQ5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
